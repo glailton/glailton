@@ -12,6 +12,7 @@ class Glailton {
  val acknowledgements = "Software Developer"
  
  val location = "Fortaleza, Ceara, Brazil" 
+ val company = "AmBev Tech"
 
 }
 ```
