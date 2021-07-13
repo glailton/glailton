@@ -62,7 +62,7 @@ class Glailton {
 [linkedin]: https://www.linkedin.com/in/glailton/
 <br>
 
-#### Rede Sociais!
+#### Sociai Networks!
 
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
